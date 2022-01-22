@@ -1,0 +1,22 @@
+{
+  "name": "comp229_w2",
+  "version": "1.0.0",
+  "description": "demo for w2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdavidwilson/comp229_w2.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devdavidwilson/comp229_w2/issues"
+  },
+  "homepage": "https://github.com/devdavidwilson/comp229_w2#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
